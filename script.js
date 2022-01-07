@@ -25,7 +25,6 @@ const countChars = (str) => {
 
 const countWords = (str) => {
 	str = str.split(' ')
-	str = 
 	return str.length;
 };
 
